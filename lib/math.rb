@@ -9,8 +9,8 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-  puts ()
-
+  puts (50,2)
+  divide(50,2)
 end
 
 def multiplication(num1, num2)
