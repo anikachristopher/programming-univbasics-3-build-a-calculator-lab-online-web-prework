@@ -8,8 +8,6 @@ def subtraction(num1, num2)
   subtract(10,5)
 end
 
-end
-
 def division(num1, num2)
 
 end
