@@ -25,5 +25,5 @@ end
 
 def square_root(num)
   puts(81)
-
+  square_root(81)
 end
